@@ -1,7 +1,3 @@
-Sure! Below is a detailed explanation suitable for a GitHub README file:
-
----
-
 # Movie Organizer Script
 
 This Python script organizes movie files into a structure suitable for use with media server software like Plex. It moves movie files from a source directory to a destination directory, placing each movie into its own folder named after the movie title and year of release.
